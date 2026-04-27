@@ -1,0 +1,19 @@
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Machine-specific environment (contains local paths)
+.Renviron
+
+# renv (reproducible environment)
+renv/library/
+renv/python/
+renv/staging/
+
+# shinyapps.io deploy manifest
+rsconnect/
+
+# macOS
+.DS_Store

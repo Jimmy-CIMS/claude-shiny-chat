@@ -1,0 +1,15 @@
+Title: Claude Shiny Chat
+Type: Shiny
+Author: CIMS Global
+Description: A simple multi-turn chat application powered by Claude AI,
+    built with R Shiny and the claudeAgentR SDK.
+    claudeAgentR is available at https://github.com/Jimmy-CIMS/claude-code-sdk-r
+Depends:
+    R (>= 4.1.0)
+Imports:
+    shiny,
+    bslib,
+    shinyjs,
+    promises,
+    commonmark,
+    claudeAgentR
